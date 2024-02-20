@@ -10,4 +10,4 @@ run `make` at the root of the repo.
 
 Move using WASD and rotate the camera with the keyboard arrows.
 
-A sample of maps is available in [maps](https://github.com/dbelpaum/cub3d/tree/main/maps)
+A sample of maps is available in [maps](https://github.com/dbelpaum/cub3d/tree/main/maps/valid)
