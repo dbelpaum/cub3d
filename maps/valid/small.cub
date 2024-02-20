@@ -1,0 +1,12 @@
+NO ./sprites/eagle.xpm
+SO ./sprites/greystone.xpm
+WE ./sprites/purplestone.xpm
+EA ./sprites/red.xpm
+
+F 220,100,0
+C 225,30,0
+11111
+1N001
+10101
+10001
+11111
